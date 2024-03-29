@@ -4,9 +4,10 @@
 <div align=center>
   <!--소개-->
 
-## Introduction :raised_hands:
-더욱 발전하고싶은 개발자 김도연입니다.😎
+## Hi,there :raised_hands:
+꾸준하게 발전하고 성장하고싶은 프론트엔드 개발자 김도연입니다.😎
 <br/><br/>
+
   
   
 <h3>📚 Tech Stack 📚</h3>
